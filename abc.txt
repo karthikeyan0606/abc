@@ -1,1 +1,3 @@
 This is my text example
+****************
+Now i added this file into git repository
